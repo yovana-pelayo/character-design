@@ -1,3 +1,2 @@
-export function makeStatsString(headCount, middleCount, bottomCount) {
-    return '';
-}
+// export function createStatsString(headCount, middleCount, bottomCount)
+   
