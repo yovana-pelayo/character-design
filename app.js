@@ -79,9 +79,9 @@ function displayCatchphrases() {
     catchphrasesEl.textContent = '';
 // loop through each catchphrase in state
     for (let display of catchphrases) {
-        const div = document.createElement('div');
-        div.textContent = display;
-        catchphrasesEl.append(div);
+        const li = document.createElement('li');
+        li.textContent = display;
+        catchphrasesEl.append(li);
     }
 }
     // create an HTML element with the catchphrase as its text content
