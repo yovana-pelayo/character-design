@@ -4,7 +4,7 @@ add a section tag and add class= "details
 add select element to create drop down
 insert image  tag
 make sure we add event listener 
- slowly but surely keep track of where everythign is going and what it is doing
+ slowly but surely keep track of where everything is going and what it is doing
 
 ## Learning Objectives
 
